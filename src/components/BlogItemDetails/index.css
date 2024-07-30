@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.id-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.id-img {
+  height: 10vh;
+  width: 10vw;
+}
+.matter {
+  text-align: center;
+  font-size: 20px;
+}
